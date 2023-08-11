@@ -1,9 +1,0 @@
-###
-POST http://localhost:3000/items
-Content-Type: aplication/json
-
-{
-    "title": "Pokemon Azul",
-    "price": 10.25,
-    "image": "imagen Azul"
-}
